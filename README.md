@@ -71,8 +71,8 @@ Outside of coding and research, I’m deeply involved in:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/aria-gong/])  
 📬 Email: yg2990@barnard.edu  
-🌐 Website/Portfolio: [your-site.com](https://your-site.com)  
-🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
+🌐 Website/Portfolio: [your-site.com]([https://github.com/yirangong/CRC_communication])  
+🐙 Linkedin: [github.com/yourusername]([https://www.linkedin.com/in/aria-gong/])
 
 ---
 
