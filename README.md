@@ -40,7 +40,7 @@ Here are some of the tools and technologies I’ve worked with:
 
 ## 🚀 Selected Projects
 
-### 📊 **[Collaborative Planning & Communication in Decision-Making]**  
+### 📊 **[Modeling Communication Dynamics in Complex Strategic Planning: A Unity-Based Behavioral Experiment]**  
 _
 
 Led the design and pilot of a behavioral experiment to study how communication influences strategic planning in complex environments. Developed a custom Unity game to simulate decision trees with asymmetric rewards and collected multi-modal data (game logs, audio transcripts, cursor movement). Applied data science methods to preprocess behavioral data, design comparative conditions, and structure future analyses on performance, coordination patterns, and communication dynamics.
@@ -69,8 +69,8 @@ Outside of coding and research, I’m deeply involved in:
 
 ## 📫 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
-📬 Email: yourname@domain.com  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/aria-gong/])  
+📬 Email: yg2990@barnard.edu  
 🌐 Website/Portfolio: [your-site.com](https://your-site.com)  
 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
 
