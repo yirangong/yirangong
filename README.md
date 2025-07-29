@@ -40,9 +40,12 @@ Here are some of the tools and technologies I’ve worked with:
 
 ## 🚀 Selected Projects
 
-### 📊 **[Project Name]**  
-_Description of the project and what problem it solves._  
-**Tech:** Python, Pandas, Matplotlib, Scikit-learn  
+### 📊 **[Collaborative Planning & Communication in Decision-Making]**  
+_
+
+Led the design and pilot of a behavioral experiment to study how communication influences strategic planning in complex environments. Developed a custom Unity game to simulate decision trees with asymmetric rewards and collected multi-modal data (game logs, audio transcripts, cursor movement). Applied data science methods to preprocess behavioral data, design comparative conditions, and structure future analyses on performance, coordination patterns, and communication dynamics.
+
+**Tech:** Python, Pandas, Matplotlib,  Unity (C#)
 [🔗 GitHub Repo](link-to-project)
 
 ### 🧠 **[Fall AI Studio Project – “Project Name”]**  
