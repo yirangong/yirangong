@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **yirangong/yirangong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![aria-profile](path/to/your/image.png)
 -->
 # 👋 Hi there, I'm Aria (Yiran Gong)
 
-![aria-profile](path/to/your/image.png)
+
 
 I'm an undergraduate student majoring in **Cognitive Science** at **Barnard College of Columbia University**, passionate about using data to build thoughtful, human-centered solutions.  
 As a researcher, leader, and collaborator, I’m driven by curiosity, clarity, and a strong commitment to equity and inclusion. My work lives at the intersection of data, behavior, and impact.
