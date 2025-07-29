@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![aria-profile](path/to/your/image.png)
 -->
-# 👋 Hi there, I'm Aria (Yiran Gong)
+# 👋 Hi there, I'm Aria
 
 
 
@@ -59,11 +59,11 @@ _A brief summary of your AI Studio project: what you explored, built, or discove
 
 ## 🌱 Beyond Tech
 
-Outside of coding and research, I’m deeply involved in:
-- **[Volunteer role]** at [Organization Name], helping [cause/impact]
+Outside of coding and research, I’m involved in:
+- Columbia Youth Adventurer, Leading Harlem’s youth on NYC-wide explorations, fostering a deeper appreciation for local culture and community
 - Leading initiatives to promote **diversity and inclusion**
 - Exploring the intersection of **global cultures, language learning**, and **tech for good**
-- Hobbies: playing sports, assembling IKEA furniture, and trying new recipes
+- Hobbies: playing sports, trying new recipes, traveling 
 
 ---
 
@@ -71,7 +71,7 @@ Outside of coding and research, I’m deeply involved in:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aria-gong/)  
 📬 Email: yg2990@barnard.edu  
-🌐 Website/Portfolio: [personal space](https://yirangong.github.io/)
+🌐 Website/Portfolio: [personal space](https://yirangong.github.io/)    
 🐙 GitHub: [github.com/yirangong](https://github.com/yirangong)  
 
 ---
