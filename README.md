@@ -46,7 +46,7 @@ _
 Led the design and pilot of a behavioral experiment to study how communication influences strategic planning in complex environments. Developed a custom Unity game to simulate decision trees with asymmetric rewards and collected multi-modal data (game logs, audio transcripts, cursor movement). Applied data science methods to preprocess behavioral data, design comparative conditions, and structure future analyses on performance, coordination patterns, and communication dynamics.
 
 **Tech:** Python, Pandas, Matplotlib,  Unity (C#)
-[🔗 GitHub Repo](link-to-project)
+[🔗 GitHub Repo](https://github.com/yirangong/CRC_communication)
 
 ### 🧠 **[Fall AI Studio Project – “Project Name”]**  
 _A brief summary of your AI Studio project: what you explored, built, or discovered._  
@@ -71,7 +71,7 @@ Outside of coding and research, I’m deeply involved in:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aria-gong/)  
 📬 Email: yg2990@barnard.edu  
-🌐 Website/Portfolio: [CRC Communication GitHub](https://github.com/yirangong/CRC_communication)  
+🌐 Website/Portfolio:   
 🐙 GitHub: [github.com/yirangong](https://github.com/yirangong)  
 
 ---
