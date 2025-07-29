@@ -41,7 +41,6 @@ Here are some of the tools and technologies I’ve worked with:
 ## 🚀 Selected Projects
 
 ### 📊 **[Modeling Communication Dynamics in Complex Strategic Planning: A Unity-Based Behavioral Experiment]**  
-_
 
 Led the design and pilot of a behavioral experiment to study how communication influences strategic planning in complex environments. Developed a custom Unity game to simulate decision trees with asymmetric rewards and collected multi-modal data (game logs, audio transcripts, cursor movement). Applied data science methods to preprocess behavioral data, design comparative conditions, and structure future analyses on performance, coordination patterns, and communication dynamics.
 
